@@ -1,9 +1,9 @@
-## Hi there 👋
+## Thank you for you visit and welcome back! 👋
 
 <!--
-**macweb00/macweb00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Life is grateful
 
-Here are some ideas to get you started:
+Regardless of the day, I will set aside at least 1 hour of the 5 working days of the week to program and rekindle the embers that surround my knowledge. This is my goal for 2025 for the rest of my life and as long as I have a computer nearby, I will fulfill this statement, whether in health or in sickness.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
