@@ -1,9 +1,7 @@
 ## Thank you for you visit and welcome back! 👋
 
 <!--
-**Life is grateful
-
-Regardless of the day, I will set aside at least 1 hour of the 5 working days of the week to program and rekindle the embers that surround my knowledge. This is my goal for 2025 for the rest of my life and as long as I have a computer nearby, I will fulfill this statement, whether in health or in sickness.
+**
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -14,3 +12,10 @@ Regardless of the day, I will set aside at least 1 hour of the 5 working days of
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+##Aboute me
+Life is grateful
+
+Regardless of the day, I will set aside at least 1 hour of the 5 working days of the week to program and rekindle the embers that surround my knowledge. This is my goal for 2025 for the rest of my life and as long as I have a computer nearby, I will fulfill this statement, whether in health or in sickness.
+
+
